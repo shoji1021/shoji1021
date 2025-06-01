@@ -1,4 +1,4 @@
-![](https://skillicons.dev/icons?i=kali,python,typescript,js,html,css,vue,react,java)
+![](https://skillicons.dev/icons?i=kali,python,typescript,js,html,css,vue,react,nodejs,java)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoji1021&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shoji1021&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shoji1021&theme=chartreuse_dark)
