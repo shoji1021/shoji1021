@@ -2,7 +2,7 @@
 <h1>MY PROFILE PAGE</h1>
 <h2>URL: https://shoji.pages.dev</h2>
 
-<img width="100%" height="auto" src="https://github.com/user-attachments/assets/41e36dea-640d-4844-8dac-3b0d3739c2dd" />
+<img width="100%" height="auto" src="image/profile.png" />
 
 
 <h1>MY ITEM</h1>
