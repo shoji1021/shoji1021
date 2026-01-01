@@ -1,4 +1,11 @@
 <img width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ViZHZrd3BhcWM5eWxodG5ka2pnN2c3OHFrYjdhNTltdTlib3kxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12775LeUHMZjNu/giphy.gif"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoji1021/shoji1021/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoji1021/shoji1021/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shoji1021/shoji1021/output/github-contribution-grid-snake.svg">
+</picture>
+
 <h1>MY PROFILE PAGE</h1>
 <h2>URL: https://shoji.pages.dev</h2>
 
