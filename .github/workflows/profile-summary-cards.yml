@@ -1,9 +1,12 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # execute every 24 hours
-    - cron: "* */24 * * *"
+  schedule:
+    - cron: "0 */24 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -12,8 +15,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SAMPLE_SEACRET }}
         with:
           USERNAME: ${{ github.repository_owner }}
+
