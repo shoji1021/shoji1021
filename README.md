@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=37DA09&center=true&width=440&lines=Hello+World.+I'm+Japanese+Programmer.)
+
 <img width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ViZHZrd3BhcWM5eWxodG5ka2pnN2c3OHFrYjdhNTltdTlib3kxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12775LeUHMZjNu/giphy.gif"/>
 
 <picture>
