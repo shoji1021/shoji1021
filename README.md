@@ -15,7 +15,7 @@
 <h1>MY ITEM</h1>
 
 ![](https://skillicons.dev/icons?i=kali,php,python,java,rust,typescript,js,html,css,dart,kotlin)<br>
-![](https://skillicons.dev/icons?i=vscode,androidstudio,vue,react,vite,npm,git,github,nodejs,nextjs)
+![](https://skillicons.dev/icons?i=windows,vscode,androidstudio,vue,react,vite,npm,git,github,nodejs,nextjs)
 <h1>MY SCHOOL ACCOUNT</h1><br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoji1021&theme=chartreuse_dark)
