@@ -18,17 +18,10 @@
 
 ![](https://skillicons.dev/icons?i=kali,php,python,java,rust,typescript,js,html,css,dart,kotlin,firebase)<br>
 ![](https://skillicons.dev/icons?i=windows,vscode,androidstudio,vue,react,vite,npm,git,github,nodejs,nextjs,raspberrypi)
-<h1>MY SCHOOL ACCOUNT</h1><br>
+<h1>MY ACCOUNT</h1><br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoji1021&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shoji1021&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shoji1021&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shoji1021&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shoji1021&theme=chartreuse_dark&utcOffset=8)
-<h1>MY PRIVATE ACCOUNT</h1><br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shojimasat1021&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shojimasat1021&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shojimasat1021&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shojimasat1021&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shojimasat1021&theme=chartreuse_dark&utcOffset=8)
